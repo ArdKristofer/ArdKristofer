@@ -41,7 +41,6 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
     I'm currently in the process of obtaining my Security + certification.
 <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
