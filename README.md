@@ -12,8 +12,8 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Monitoring & SIEM Fundamentals       | <a href="[https://google.com](https://academy.hackthebox.com/achievement/badge/d5235de2-b3e3-11ee-bfb6-bea50ffe6cb4)">HackTheBox</a>|
-| Intro to Active Directory                     | <a href="[https://google.com](https://academy.hackthebox.com/achievement/badge/6295ea66-a605-11ee-bfb6-bea50ffe6cb4)">HackTheBox</a>|
+| Security Monitoring & SIEM Fundamentals       | <a href="(https://academy.hackthebox.com/achievement/badge/d5235de2-b3e3-11ee-bfb6-bea50ffe6cb4)">HackTheBox</a>|
+| Intro to Active Directory                     | <a href="(https://academy.hackthebox.com/achievement/badge/6295ea66-a605-11ee-bfb6-bea50ffe6cb4)">HackTheBox</a>|
 | Intro to Network Traffic Analysis             | <a href="https://academy.hackthebox.com/achievement/badge/42dda30e-a04e-11ee-bfb6-bea50ffe6cb4">HackTheBox</a>|
 | Finding Evil with Windows Event Logs          | <a href="https://academy.hackthebox.com/achievement/badge/a8fd67b1-b7a6-11ee-bfb6-bea50ffe6cb4">HackTheBox</a>|
 | Microsoft Windows Defender and Firewall       | <a href="https://coursera.org/share/8f7914da2d6168320ad31bb1e1eb7af1">Coursera</a>|
