@@ -54,3 +54,4 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 - Detection Lab
 - Pfsense Firewall
 - OpenWRT Travel Router
+- Malware Traffic Analysis
