@@ -17,6 +17,7 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 | Finding Evil with Windows Event Logs          | <a href="https://academy.hackthebox.com/achievement/badge/a8fd67b1-b7a6-11ee-bfb6-bea50ffe6cb4">HackTheBox</a>|
 | Microsoft Windows Defender and Firewall       | <a href="https://coursera.org/share/8f7914da2d6168320ad31bb1e1eb7af1">Coursera</a>|
 | Password Checker                              | <a href="https://github.com/ArdKristofer/passwordChecker">Github</a>|
+| Trivia Game [in progress]                     | <a href="https://github.com/ArdKristofer/triviaGame">Github</a>|
 
 ## Tools
 
