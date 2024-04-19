@@ -16,8 +16,6 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 | Intro to Network Traffic Analysis             | <a href="https://academy.hackthebox.com/achievement/badge/42dda30e-a04e-11ee-bfb6-bea50ffe6cb4">HackTheBox</a>|
 | Finding Evil with Windows Event Logs          | <a href="https://academy.hackthebox.com/achievement/badge/a8fd67b1-b7a6-11ee-bfb6-bea50ffe6cb4">HackTheBox</a>|
 | Microsoft Windows Defender and Firewall       | <a href="https://coursera.org/share/8f7914da2d6168320ad31bb1e1eb7af1">Coursera</a>|
-| Password Checker                              | <a href="https://github.com/ArdKristofer/passwordChecker">Github</a>|
-| Trivia Game [in progress]                     | <a href="https://github.com/ArdKristofer/triviaGame">Github</a>|
 
 ## Tools
 
@@ -56,3 +54,5 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 - Pfsense Firewall
 - OpenWRT Travel Router
 - Malware Traffic Analysis
+- <a href="https://github.com/ArdKristofer/passwordChecker">Python Password Checker</a>
+- <a href="https://github.com/ArdKristofer/triviaGame">Python Trivia Game</a>
