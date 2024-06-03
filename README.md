@@ -16,6 +16,7 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 | Intro to Network Traffic Analysis             | <a href="https://academy.hackthebox.com/achievement/badge/42dda30e-a04e-11ee-bfb6-bea50ffe6cb4">HackTheBox</a>|
 | Finding Evil with Windows Event Logs          | <a href="https://academy.hackthebox.com/achievement/badge/a8fd67b1-b7a6-11ee-bfb6-bea50ffe6cb4">HackTheBox</a>|
 | Microsoft Windows Defender and Firewall       | <a href="https://coursera.org/share/8f7914da2d6168320ad31bb1e1eb7af1">Coursera</a>|
+| Let's Defend - SOC Analyst learning path      | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">LetsDefend</a>|
 
 ## Tools
 
@@ -41,7 +42,8 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 
 ## Certifications
 <div>
-    I'm currently in the process of obtaining my Security + certification.
+    CompTIA Security +
+    Blue Team Level 1 - [In progress]
 <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
