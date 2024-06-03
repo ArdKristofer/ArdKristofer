@@ -42,7 +42,7 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 
 ## Certifications
 <div>
-    CompTIA Security +
+    CompTIA Security Plus
     Blue Team Level 1 - [In progress]
 <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
