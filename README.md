@@ -5,7 +5,7 @@ I am a recent cybersecurity graduate with a profound interest in technology and 
 
 ## Objective
 
-I am deeply passionate about cybersecurity and am looking to transition into the field as a Security Operations Center (SOC) analyst, eager to apply my enthusiasm and skills in safeguarding digital assets.
+I am deeply passionate about cybersecurity and am looking to transition into the field as a Security Operations Center (SOC) analyst. I'm eager to apply my enthusiasm and skills in safeguarding digital assets.
 
 ## Skills
 
@@ -17,6 +17,24 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 | Finding Evil with Windows Event Logs          | <a href="https://academy.hackthebox.com/achievement/badge/a8fd67b1-b7a6-11ee-bfb6-bea50ffe6cb4">HackTheBox</a>|
 | Microsoft Windows Defender and Firewall       | <a href="https://coursera.org/share/8f7914da2d6168320ad31bb1e1eb7af1">Coursera</a>|
 | Let's Defend - SOC Analyst learning path      | <a href="https://app.letsdefend.io/certificate/show/7af6e227-a184-4ed0-8f3f-f9ad33f8ef31">LetsDefend</a>|
+| Let's Defend - CySA+ Preparation              | <a href="https://app.letsdefend.io/certificate/show/8b03f36e-b2fd-4bb2-bffb-54f074d5a145">LetsDefend</a>|
+| Let's Defend - Programming for Cybersecurity  | <a href="https://app.letsdefend.io/certificate/show/cfdf2dbc-9b31-4bd4-9a5f-fbecf9ff2060">LetsDefend</a>|
+
+## HackTheBox Labs
+
+| Lab                                                                               | Category           |
+|-----------------------------------------------------------------------------------|--------------------|
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/631">Brutus</a> | DFIR               |
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/840">UFO-1</a>  | Threat Intelligence|
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/751">CrownJewel-1</a> | DFIR |
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/750">CrownJewel-2</a> | DFIR |
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/749">Reaper</a> | DFIR |
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/747">Noxious</a> | SOC |
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/737">Campfire-1</a> | DFIR |
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/736">Campfire-2</a> | DFIR |
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/632">Unit42</a> | DFIR |
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/633">BFT</a> | DFIR |
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/765">Loggy</a> | Malware Analysis |
 
 ## Tools
 
@@ -51,8 +69,7 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 </div>
 
 ## Projects
-- Detection Lab
-- Pfsense Firewall
+- <a href="https://github.com/ArdKristofer/homelab">Home Lab</a>
 - OpenWRT Travel Router
 - Malware Traffic Analysis
 - <a href="https://github.com/ArdKristofer/passwordChecker">Python Password Checker</a>
