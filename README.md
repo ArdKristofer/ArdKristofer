@@ -16,7 +16,7 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 | Intro to Network Traffic Analysis             | <a href="https://academy.hackthebox.com/achievement/badge/42dda30e-a04e-11ee-bfb6-bea50ffe6cb4">HackTheBox</a>|
 | Finding Evil with Windows Event Logs          | <a href="https://academy.hackthebox.com/achievement/badge/a8fd67b1-b7a6-11ee-bfb6-bea50ffe6cb4">HackTheBox</a>|
 | Microsoft Windows Defender and Firewall       | <a href="https://coursera.org/share/8f7914da2d6168320ad31bb1e1eb7af1">Coursera</a>|
-| Let's Defend - SOC Analyst learning path      | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">LetsDefend</a>|
+| Let's Defend - SOC Analyst learning path      | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path](https://app.letsdefend.io/certificate/show/7af6e227-a184-4ed0-8f3f-f9ad33f8ef31)">LetsDefend</a>|
 
 ## Tools
 
