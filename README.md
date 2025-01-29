@@ -38,9 +38,9 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 | <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/633">BFT</a> | DFIR |
 | <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/765">Loggy</a> | Malware Analysis |
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/159/">Ramnit Lab</a> | DFIR |
-| <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/146)">PoisonedCredentials</a> | Network Forensics |
-| <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/143/)">PsExec Hunt</a> | Network Forensics |
-| <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/95/)">GrabThePhisher</a> | Threat Intelligence |
+| <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/146">PoisonedCredentials</a> | Network Forensics |
+| <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/143/">PsExec Hunt</a> | Network Forensics |
+| <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/95/">GrabThePhisher</a> | Threat Intelligence |
 
 ## Tools
 
