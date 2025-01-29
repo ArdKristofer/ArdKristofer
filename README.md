@@ -19,6 +19,8 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 | Let's Defend - SOC Analyst learning path      | <a href="https://app.letsdefend.io/certificate/show/7af6e227-a184-4ed0-8f3f-f9ad33f8ef31">LetsDefend</a>|
 | Let's Defend - CySA+ Preparation              | <a href="https://app.letsdefend.io/certificate/show/8b03f36e-b2fd-4bb2-bffb-54f074d5a145">LetsDefend</a>|
 | Let's Defend - Programming for Cybersecurity  | <a href="https://app.letsdefend.io/certificate/show/cfdf2dbc-9b31-4bd4-9a5f-fbecf9ff2060">LetsDefend</a>|
+| Cybersecurity Analyst Job Simulation ( Tata) | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/gmf3ypEXBj2wvfQWC_Tata%20Group_xGwmcKGpRQtiSAwoB_1725125020690_completion_certificate.pdf">Forage</a>|
+| Cybersecurity Job Simulation (Mastercard) | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_xGwmcKGpRQtiSAwoB_1720122202076_completion_certificate.pdf">Forage</a> |
 
 ## HackTheBox Labs
 
