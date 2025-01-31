@@ -43,6 +43,7 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/95/">GrabThePhisher</a> | Threat Intelligence |
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/213/">FakeGPT</a> | Malware Analysis |
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/205/">Danabot</a> | Network Analysis |
+| <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/192/">Reveal</a> | Endpoint Forensics |
 
 ## Tools
 
