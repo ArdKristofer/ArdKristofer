@@ -47,6 +47,7 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/184/">Red Stealer</a> | Threat Intelligence |
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/180/">3CX Supply Chain</a> | Threat Intelligence |
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/ActiveKlutch/174/">IcedID</a> | Threat Intelligence |
+| <a href="https://app.letsdefend.io/my-rewards/detail/e48fb5fa7d1e4a9cbfce7935b688682d/">Golang Ransomware</a> | DFIR |
 
 ## Tools
 
