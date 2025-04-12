@@ -24,7 +24,7 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 
 ## HackTheBox Labs
 
-| Lab                                                                               | Category           |
+| Labs                                                                              | Category           |
 |-----------------------------------------------------------------------------------|--------------------|
 | <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/631">Brutus</a> | DFIR               |
 | <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/840">UFO-1</a>  | Threat Intelligence|
@@ -50,6 +50,7 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 | <a href="https://app.letsdefend.io/my-rewards/detail/e48fb5fa7d1e4a9cbfce7935b688682d/">Golang Ransomware</a> | DFIR |
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/achievements/ActiveKlutch/bluesky-ransomware/">Bluesky Ransomware</a> | Network Forensics |
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/achievements/ActiveKlutch/web-investigation/">Web Investigation</a> | Web Investigation |
+| <a href="https://cyberdefenders.org/blueteam-ctf-challenges/achievements/ActiveKlutch/tusk-infostealer/">Tusk Infostealer</a> | Threat Intelligence |
 
 #CyberDefenders #CyberSecurity #BlueYard #BlueTeam #InfoSec #SOC #SOCAnalyst #DFIR #CCD #CyberDefender
 
