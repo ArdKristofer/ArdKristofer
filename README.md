@@ -51,6 +51,7 @@ I am deeply passionate about cybersecurity and am looking to transition into the
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/achievements/ActiveKlutch/bluesky-ransomware/">Bluesky Ransomware</a> | Network Forensics |
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/achievements/ActiveKlutch/web-investigation/">Web Investigation</a> | Web Investigation |
 | <a href="https://cyberdefenders.org/blueteam-ctf-challenges/achievements/ActiveKlutch/tusk-infostealer/">Tusk Infostealer</a> | Threat Intelligence |
+| <a href="https://labs.hackthebox.com/achievement/sherlock/1734413/879/">NeuroSync-D</a>| Endpoint Forensics |
 
 #CyberDefenders #CyberSecurity #BlueYard #BlueTeam #InfoSec #SOC #SOCAnalyst #DFIR #CCD #CyberDefender
 
